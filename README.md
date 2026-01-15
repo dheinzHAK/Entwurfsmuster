@@ -48,3 +48,10 @@ Zentrale Charakteristika
 Observer werden automatisch informiert
 Lose Kopplung
 Schlüsselbegriff: Publish–Subscribe
+
+Chain → Weiterreichen (next.handleRequest)
+Template → feste Ablaufmethode
+Decorator → Objekt im Konstruktor
+Builder → return this
+Adapter → Delegation
+Observer → Benachrichtigungsschleife
